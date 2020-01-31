@@ -26,7 +26,7 @@ comments: true
 
 <ul class="post-list">
 {% for post in site.categories.talks %}
-  {% if post.talk == "meetup_tmn5" %}
+  {% if post.talk == "meetup_itf1" %}
     {% if post.author %}
       {% capture authorslist %}
         {% for a in post.author %}
