@@ -290,4 +290,11 @@ img.bio-photo.mainpage {
 
 .register-link__button {
 	padding: 10px 20px;
+	background: #193d0b;
+	color: #ffffff;
+
+	&:hover {
+		background: #245710;
+	}
 }
+
