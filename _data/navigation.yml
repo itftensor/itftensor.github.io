@@ -1,16 +1,10 @@
 # Site navigation links
 
-- title: 19/09/2019
+- title: 21/02/2020
   url: /
 
 - title: О проекте
   url: /about/
 
-- title: Люди
-  url: /people/
-
 - title: Встречи
   url: /events/
-
-- title: Регистрация
-  url: /register/
