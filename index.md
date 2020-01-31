@@ -71,7 +71,7 @@ __Вход – free__
 Первые 30 зарегистрировавшихся получат повестку для явки на секретное AfterParty за счет компании.
 Мы ждем тебя!
 
-[<p class="register-link__button">Регистрация</p>][register]
+<a class="register-link__button" href="https://kompaniya-tenzor-events.timepad.ru/event/1247224/">Регистрация</a>
 
 [place]: http://rybinsk.vikonda.ru/
 [tensor]: http://tensor.ru/
