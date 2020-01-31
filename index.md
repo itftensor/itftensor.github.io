@@ -52,11 +52,12 @@ comments: true
 Первые 30 зарегистрировавшихся получат повестку для явки на секретное AfterParty за счет компании.
 Мы ждем тебя!
 
-<iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A54eaf86410f7effcdc9c33774d3193862bf6c46521fc0f874210e83fac0d80e7&amp;source=constructor" width="700" height="450" frameborder="0"></iframe>
-
 __Вход – free.__
 
-[register]: /register/
+<iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A54eaf86410f7effcdc9c33774d3193862bf6c46521fc0f874210e83fac0d80e7&amp;source=constructor" width="700" height="450" frameborder="0"></iframe>
+
+[**Регистрация**][register]
+
 [place]: http://rybinsk.vikonda.ru/
 [tensor]: http://tensor.ru/
 [speakers]: /speakers/
@@ -67,3 +68,5 @@ __Вход – free.__
 [1040266]: https://tensor-tmn.timepad.ru/event/1040266/
 [1050019]: https://kompaniya-tenzor-events.timepad.ru/event/1050019/
 [yarfrontend]: http://yarfrontend.ru/
+
+[register]: https://kompaniya-tenzor-events.timepad.ru/event/1247224/
