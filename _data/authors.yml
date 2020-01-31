@@ -3,25 +3,25 @@
 begunov_andrey:
   name: Бегунов Андрей
   email: 1@1.com
-  avatar: begunov_a.png
+  avatar: begunov.a.png
   company: Тензор
 
 nevstruev_roman:
   name: Невструев Роман
   email: 1@1.com
-  avatar: nevstruev_r.png
+  avatar: nevstruev.r.png
   company: Тензор
 
 dokuchaev_sergey:
   name: Докучаев Сергей
   email: 1@1.com
-  avatar: dokuchaev_s.png
+  avatar: dokuchaev.s.png
   company: Тензор
 
 uvarov_ivan:
   name: Уваров Иван
   email: 1@1.com
-  avatar: uvarov_i.png
+  avatar: uvarov.i.png
   company: Тензор
 
 # kolyaj:
