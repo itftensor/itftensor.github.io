@@ -4,25 +4,29 @@ begunov_andrey:
   name: Бегунов Андрей
   email: 1@1.com
   avatar: begunov.a.png
-  company: Тензор
+  company: Тензор (военный округ Ярославль)
+  bio: Генерал Фронт-платформы
 
 nevstruev_roman:
   name: Невструев Роман
   email: 1@1.com
   avatar: nevstruev.r.png
-  company: Тензор
+  company: Тензор (военный округ Кострома)
+  bio: Ветеран войн за CRM
 
 dokuchaev_sergey:
   name: Докучаев Сергей
   email: 1@1.com
   avatar: dokuchaev.s.png
-  company: Тензор
+  company: Тензор (военный округ Ярославль)
+  bio: Главнокомандующий тест-войсками
 
 uvarov_ivan:
   name: Уваров Иван
   email: 1@1.com
   avatar: uvarov.i.jpg
-  company: Тензор
+  company: Тензор (военный округ Санкт-Петербург)
+  bio: Адмирал тензоровского флота
 
 # kolyaj:
   # name: Сиварев Николай

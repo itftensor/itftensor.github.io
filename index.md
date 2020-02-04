@@ -24,7 +24,7 @@ comments: true
 
 Если  ты  опытный  разработчик,  хочешь  весело  и  с  пользой  провести  время  в  компании  единомышленников, приглашаем тебя на наш праздничный Meetup в честь Дня защитника отечества. Регистрируйся и приходи.
 
-<span class="register-link__button">[Регистрация][register]</span>
+<a class="register-link__button" href="https://kompaniya-tenzor-events.timepad.ru/event/1247224/">Регистрация</a>
 
 Что тебя ждет:
 
